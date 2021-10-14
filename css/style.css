@@ -1,0 +1,31 @@
+.fondo-header{
+   background-color: #013d69;
+
+    color: #ffffff;
+}
+.fondo{
+    background-color: #ffffff
+}
+.fondo2{
+   background-color: #ffffff;
+    color: #1f1f1f;
+}
+.fondo-footer:hover{
+   background-color: #402218;
+    color: #ffffff;
+}
+.fondo-footer
+{
+    background-color: #004e7a;
+    color: rgb(255, 255, 255);
+}
+.fondooscuro{
+    background-color: #4f5050;
+    color: white;
+    transition: background-color 1s ease-out;
+}
+.fondopredeterminado{
+    background-color: #ffffff;
+    color: black;
+    transition: background-color 1s ease-out;
+}
